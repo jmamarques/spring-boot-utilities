@@ -7,4 +7,9 @@
 #Technologies
 * Mapstruct
 * Lombok
+* OAuth2
+* MyBatis 3
+* PageHelper
+* Web Flux
+* Cache (Redis, HazelCast or Spring Cache)
 ...
