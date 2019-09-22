@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/joaoMAMarques/spring-boot-utilities/tree/master.svg?style=svg)](https://circleci.com/gh/joaoMAMarques/spring-boot-utilities/tree/master)
+
 #Utilities for Spring Boot
 * All person can join, you are welcome
 
