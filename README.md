@@ -15,3 +15,9 @@
 * Web Flux
 * Cache (Redis, HazelCast or Spring Cache)
 ...
+
+# Run
+* run
+```./mvnw package && java -jar target/gs-spring-boot-docker-0.1.0.jar```
+
+
